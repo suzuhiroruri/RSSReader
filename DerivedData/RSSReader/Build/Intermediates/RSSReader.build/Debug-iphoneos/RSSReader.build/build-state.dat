@@ -1,0 +1,460 @@
+TRSSReader
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Info.plist RSSReader/RSSReader-Info.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch.pth RSSReader/RSSReader-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML+HTTP.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML+HTTP.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/News.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/News.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader normal armv7
+cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader
+cCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/en.lproj/InfoPlist.strings RSSReader/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default.png RSSReader/Default.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default@2x.png RSSReader/Default@2x.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default-568h@2x.png RSSReader/Default-568h@2x.png
+cCompileStoryboard /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/en.lproj/MainStoryboard.storyboard
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/embedded.mobileprovision
+cTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader.xcent
+cCodeSign /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051BC19820000000000000110
+t1371281794
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c00000000512CF0E500000000000001A7
+t1361899749
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c00000000512CF0E500000000000001E5
+t1361899749
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF0E80000000000322700
+t1361899752
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF0E9000000000062AD10
+t1361899753
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512CF0E800000000000015F7
+t1361899752
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512CF0EA0000000000000E8D
+t1361899754
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF0EE00000000011BCDF0
+t1361899758
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c00000000512CF0F20000000000001B73
+t1361899762
+s7027
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch.pth
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/News.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/RSSReader.LinkFileList
+c0000000051F4C8AB000000000000040E
+t1374996651
+s1038
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML+HTTP.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader.xcent
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app.dSYM
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Info.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/PkgInfo
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/ResourceRules.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/AppDelegate.m
+c0000000050A3E1D200000000000007E1
+t1352917458
+s2017
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/News.m
+c0000000050A3E67C00000000000000B8
+t1352918652
+s184
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/RSSReader-Prefix.pch
+c0000000050A3E1D20000000000000141
+t1352917458
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/ViewController.m
+c0000000050A3E81A0000000000001B86
+t1352919066
+s7046
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/en.lproj/InfoPlist.strings
+c0000000050A3E1D2000000000000002D
+t1352917458
+s45
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/en.lproj/MainStoryboard.storyboard
+c0000000050A3E9080000000000001BF7
+t1352919304
+s7159
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/main.m
+c0000000050A3E1D2000000000000015A
+t1352917458
+s346
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML+HTTP.m
+c000000004F34219F0000000000000C43
+t1328816543
+s3139
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML.m
+c000000004F341BA6000000000000782A
+t1328815014
+s30762
+
+N/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+c0000000051DBC2130000000000001D36
+t1373356563
+s7478
+
+NRSSReader/RSSReader-Info.plist
+c0000000050A3E1D200000000000004D6
+t1352917458
+s1238
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/News.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/ViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/main.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML+HTTP.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies72c2dc2a00a5b741^e756142b00a5b741^---0#1#0#--18"Check dependencies36"5132BA1B-3D1E-450A-A7F2-839C25C60BC6-
+
+CCodeSign /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app
+s396689453.009823
+e396689453.457180
+r1
+xCodeSign
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CodeSign DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app61a5022d00a5b741^7d09752d00a5b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/0000000000000000^981"CodeSign DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 8e72a3bdb14b5665b8d51cbcbab716ec47054420 --resource-rules=/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/ResourceRules.plist --entitlements /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader.xcent /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app36"98DAA000-F4C3-4A00-9215-14A726AB4A24-
+
+CCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396689451.793757
+e396689452.012833
+r1
+xCompileC
+xDerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/AppDelegate.m6f63cb2b00a5b741^ca52032c00a5b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/AppDelegate.m0000000000000000^3935"CompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/AppDelegate.o RSSReader/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/AppDelegate.o36"9F43371B-E2DB-48A1-9BE0-8608DC5EA48A-
+
+CCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/News.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/News.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396689452.013505
+e396689452.062889
+r1
+xCompileC
+xDerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/News.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/News.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/News.m57b2032c00a5b741^9318102c00a5b741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/News.m0000000000000000^3893"CompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/News.o RSSReader/News.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/News.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/News.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/News.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/News.o36"68B24107-8F51-4B09-98B4-6BADB8549F67-
+
+CCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML+HTTP.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML+HTTP.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396689451.792465
+e396689452.029061
+r1
+xCompileC
+xDerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML+HTTP.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML+HTTP.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML+HTTP.mb85acb2b00a5b741^e083072c00a5b741^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML+HTTP.m0000000000000000^3909"CompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML+HTTP.o TBXML+HTTP.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML+HTTP.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML+HTTP.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML+HTTP.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML+HTTP.o36"02CA66EF-23B0-4A84-B0B6-8415DEC9E93F-
+
+CCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396689451.792504
+e396689452.097989
+r1
+xCompileC
+xDerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML.m083dcb2b00a5b741^4815192c00a5b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML.m0000000000000000^3879"CompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML.o TBXML.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/TBXML.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/TBXML.o36"DAD08321-A4B6-4569-8A54-7772AB99D8AA-
+
+CCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396689452.013518
+e396689452.146344
+r1
+xCompileC
+xDerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/ViewController.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/ViewController.m35b2032c00a5b741^e179252c00a5b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/ViewController.m0000000000000000^3953"CompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/ViewController.o RSSReader/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/ViewController.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/ViewController.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/ViewController.o36"C3205257-804C-4C2B-AA48-5D41E95E52F7-
+
+CCompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396689451.792524
+e396689452.012195
+r1
+xCompileC
+xDerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/main.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/main.m713ccb2b00a5b741^382e032c00a5b741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/main.m0000000000000000^3893"CompileC DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/main.o RSSReader/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/main.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/main.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/main.o36"C3C6E7ED-D8F8-4F7C-88D4-576D55F0B90E-
+
+CCompileStoryboard /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/en.lproj/MainStoryboard.storyboard
+s396689452.446802
+e396689452.944340
+r1
+xCompileStoryboard
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard RSSReader/en.lproj/MainStoryboard.storyboardf088722c00a5b741^cac0f12c00a5b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/en.lproj/MainStoryboard.storyboard0000000000000000^947"CompileStoryboard RSSReader/en.lproj/MainStoryboard.storyboard    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/en.lproj/MainStoryboard.storyboardc /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"12C8718A-0AAA-431A-BC35-4722DB483DB4-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default-568h@2x.png RSSReader/Default-568h@2x.png
+s396689452.436526
+e396689452.904110
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default-568h@2x.png
+xRSSReader/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CopyPNGFile DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default-568h@2x.png RSSReader/Default-568h@2x.pngdee86f2c00a5b741^e273e72c00a5b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/Default-568h@2x.png0000000000000000^717"CopyPNGFile "DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default-568h@2x.png" "RSSReader/Default-568h@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/Default-568h@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default-568h@2x.png"36"FE072672-B7C8-4CAD-A248-3CE7554DDAE7-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default.png RSSReader/Default.png
+s396689452.436512
+e396689452.817416
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default.png
+xRSSReader/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default.png RSSReader/Default.png9fe76f2c00a5b741^c841d12c00a5b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/Default.png0000000000000000^677"CopyPNGFile DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default.png RSSReader/Default.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/Default.png /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default.png36"C75FCC7E-0D6F-4306-A9D0-1C676529246E-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default@2x.png RSSReader/Default@2x.png
+s396689452.436508
+e396689452.879086
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default@2x.png
+xRSSReader/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default@2x.png RSSReader/Default@2x.pngb0e76f2c00a5b741^0f0be12c00a5b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/Default@2x.png0000000000000000^697"CopyPNGFile "DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default@2x.png" "RSSReader/Default@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/Default@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Default@2x.png"36"DEB23FB7-3447-45DB-B704-0CE4E7C09A8B-
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/en.lproj/InfoPlist.strings RSSReader/en.lproj/InfoPlist.strings
+s396689452.436497
+e396689452.445389
+r1
+xCopyStringsFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/en.lproj/InfoPlist.strings
+xRSSReader/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy RSSReader/en.lproj/InfoPlist.strings42e96f2c00a5b741^d104722c00a5b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/en.lproj/InfoPlist.strings0000000000000000^650"CopyStringsFile DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/en.lproj/InfoPlist.strings RSSReader/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/en.lproj -- RSSReader/en.lproj/InfoPlist.strings36"7D667C2C-4B7B-4151-ADB4-89E1646A8DC5-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/ResourceRules.plist
+s396689451.093504
+e396689451.105220
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/ResourceRules.plistf2cf182b00a5b741^52ee1a2b00a5b741^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/ResourceRules.plist000000000080d041^818"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/ResourceRules.plist    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app36"E2F7CD76-3116-49D8-8051-5537D9136411-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader
+s396689452.378608
+e396689452.428250
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generate /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app.dSYM6004612c00a5b741^dca16d2c00a5b741^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app.dSYM000000000080d041^765"GenerateDSYMFile DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app.dSYM DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app.dSYM36"D8437535-B85B-433F-88E8-7434EFDB6907-
+
+CLd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader normal armv7
+s396689452.153359
+e396689452.371720
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader5a64272c00a5b741^172a5f2c00a5b741^---0#0#0#--1273"Ld DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader normal armv7    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos -F/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos -filelist /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/Objects-normal/armv7/RSSReader.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/RSSReader36"C42A90BA-6CC4-420D-B0BB-5272A3C48DA2-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Info.plist RSSReader/RSSReader-Info.plist
+s396689451.093510
+e396689451.109616
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Info.plist
+xRSSReader/RSSReader-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process RSSReader/RSSReader-Info.plistc0cf182b00a5b741^62101c2b00a5b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/RSSReader-Info.plist0000000000000000^918"ProcessInfoPlistFile DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Info.plist RSSReader/RSSReader-Info.plist    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RSSReader/RSSReader-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/ResourceRules.plist -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/Info.plist36"2EE05AB7-657C-4B5D-91C9-43252906B56E-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch.pth RSSReader/RSSReader-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396689451.117610
+e396689451.785590
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch.pth
+xRSSReader/RSSReader-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile RSSReader/RSSReader-Prefix.pcha9891e2b00a5b741^56d3c92b00a5b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/RSSReader-Prefix.pch0000000000000000^3797"ProcessPCH DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch.pth RSSReader/RSSReader-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/RSSReader/RSSReader-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/PrecompiledHeaders/RSSReader-Prefix-ftpmslyfkjrtzhgjudkntslrgyye/RSSReader-Prefix.pch.d36"800D13F1-C632-4D56-A89D-0A72D3C215DF-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Index/PrecompiledHeaders/RSSReader-Prefix-conroqygpiqtrgarzmdkobyvoaci_ast/RSSReader-Prefix.pch.pth RSSReader/RSSReader-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/embedded.mobileprovision
+s396689452.965995
+e396689452.969848
+r1
+xProcessProductPackaging
+x/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection237"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/embedded.mobileprovision3b6ff72c00a5b741^7749f82c00a5b741^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/embedded.mobileprovision0000000000000000^790"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/embedded.mobileprovision    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app/embedded.mobileprovision36"9D1F99A4-8E8D-4EB6-830D-19943D115D89-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader.xcent
+s396689452.996394
+e396689453.001176
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader.xcentb135ff2c00a5b741^f359022d00a5b741^---0#0#0#-19%DVTDocumentLocation2@172"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader.xcent000000000080d041^840"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader.xcent    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Intermediates/RSSReader.build/Debug-iphoneos/RSSReader.build/RSSReader.xcent36"30FDD916-3F98-4FAB-8FBE-51E63DD11709-
+
+CTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app
+s396689452.977953
+e396689452.988253
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Touch /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app936ffa2c00a5b741^26fefc2c00a5b741^---0#0#0#--459"Touch DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/cocos2dx/RSSReader/DerivedData/RSSReader/Build/Products/Debug-iphoneos/RSSReader.app36"34917448-B391-4A1B-A244-2584EB255418-
+
